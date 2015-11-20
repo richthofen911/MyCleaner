@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCleaner</string>
+
+    <string-array name="apps">
+        <item>Zhihu</item>
+        <item>QQ</item>
+        <item>WeChat</item>
+    </string-array>
+</resources>
